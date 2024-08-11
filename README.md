@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with coding. I'm really bad at it
 - 💬 Hobby likes to play games and watching animes
 
-[![Hilman GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman45)](https://github.com/anuraghazra/github-readme-stats)
+[![Hilman's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Hilman45&show_icons=true&theme=dark#gh-dark-mode-only)
 
