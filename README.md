@@ -2,7 +2,7 @@
 🔭 I'm a currently a software engineering student at the University of Kuala Lumpur<br>
 🌱 Currently wanted to improve my coding skils 
 🤔 I’m looking for help with coding. I'm really bad at it<br>
-💬 Hobby likes to play games 
+💬 Hobby likes to play games
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hilman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhd-hilman-1b41162aa/
